@@ -1,5 +1,7 @@
 import  sys
-"""add ing documentation locally"""
+"""add ing documentation locally
+added documentation"""
+
 count = 0
 
 for line in sys.stdin:
