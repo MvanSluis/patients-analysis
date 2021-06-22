@@ -1,5 +1,5 @@
 import  sys
-
+"""added documentation"""
 count = 0
 
 for line in sys.stdin:
